@@ -4,8 +4,6 @@
  * Instructor: @EliezerLopez
  * */
 
-#include <cstdlib>
-
 int main(){
 
     

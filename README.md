@@ -24,8 +24,10 @@ La rama `b` contiene el código tal y como se encuentra al comienzo del video. L
 3. Este curso ha sido grabado utilizando macOS. Si utilizas otro sistema operativo es posible que algunas instrucciones empleadas, archivos de configuración o directivas de compilación no se apliquen de la misma manera, y sea necesario localizar la forma de trabajo equivalente para dicho sistema operativo.
 
 ## Instructor
-[Eliezer López][https://twitter.com/EliezerLopez]
+Eliezer López
+
 Desarrollador de Software
+
 Descubre mis otros cursos en LinkedIn Learning.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)

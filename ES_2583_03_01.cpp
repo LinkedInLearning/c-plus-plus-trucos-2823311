@@ -12,9 +12,9 @@ using namespace std;
 int main(){
 
     int a = 80, b = 3, c = 6;
-    int resultado = (4-a*8 / b / 4 + c) % 4;
+    bool resultado = 4-a*8 || b / 4 != 9 && c % 4 == 3 || !false || a >= b;
 
-    cout << "Resultado: " << resultado << endl;
+    cout << resultado << endl;
 
     return 0;
 }

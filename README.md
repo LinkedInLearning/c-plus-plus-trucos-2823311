@@ -2,9 +2,8 @@
 
 Éste es el repositorio para el curso `C++ Trucos` de LinkedIn Learning. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![C++ Trucos][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
 ## Instructions
 Este repositorio tiene ramas para cada uno de los videos del curso. Puedes usar el menú de arriba mostrado en GitHub para cambiar a una rama específica y echar un vistazo al estado del curso en ese momento, o puede añadir `/tree/NOMBRE_RAMA` a la URL para ir a la rama a la que quieras acceder.
 
@@ -28,10 +27,8 @@ Eliezer López
 
 Desarrollador de Software
 
-Descubre mis otros cursos en LinkedIn Learning.
+Descubre mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eliezer-lopez?u=104).
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/c-plus-plus-trucos
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2823311/2823311-1618216215664-16x9.jpg
 
